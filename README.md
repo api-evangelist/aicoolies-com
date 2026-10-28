@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aicoolies is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://aicoolies.com
+aicoolies is an open directory of AI developer tools that aggregates reviews, pricing information, side‑by‑side comparisons, and recommendations to help developers discover, evaluate, and choose the best AI‑powered solutions for their projects. The platform curates tool listings, provides detailed insights, and aims to simplify the decision‑making process for engineers, product teams, and technology enthusiasts.
+
+**Areas:** Company · AI · Developer Tools · Directory · Reviews · Comparisons
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aicoolies.com)
+- [API reference](https://aicoolies.com/tools/redoc)
+- [Pricing](https://aicoolies.com/pricing)
+- [Privacy policy](https://aicoolies.com/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aicoolies-com/](https://apis.io/providers/aicoolies-com/).
