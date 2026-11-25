@@ -66,7 +66,7 @@
 
 aicoolies is an open directory of AI developer tools that aggregates reviews, pricing information, side‑by‑side comparisons, and recommendations to help developers discover, evaluate, and choose the best AI‑powered solutions for their projects. The platform curates tool listings, provides detailed insights, and aims to simplify the decision‑making process for engineers, product teams, and technology enthusiasts.
 
-**Areas:** Company · AI · Developer Tools · Directory · Reviews · Comparisons
+**Areas:** Company · Artificial Intelligence · Developer Tools · Directory · Reviews · Comparisons
 
 ## aicoolies on APIs.io
 
@@ -80,31 +80,37 @@ Everything profiled for aicoolies is published on APIs.io rather than in this re
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [aicoolies-com-mcp.yml](https://apis.io/servers/aicoolies-com/aicoolies-com-mcp-yml/)
+
 #### Overlays (1)
 
 OpenAPI overlays, including conversational phrasing for each operation.
 
-- [Aicoolies Com Openapi Overlay](https://apis.io/overlays/aicoolies-com/aicoolies-com-openapi-overlay/)
+- [aicoolies Openapi Overlay](https://apis.io/overlays/aicoolies-com/aicoolies-com-openapi-overlay/)
 
 #### Security (3)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aicoolies Com Authentication](https://apis.io/security/aicoolies-com/aicoolies-com-authentication/)
-- [Aicoolies Com Domain Security](https://apis.io/security/aicoolies-com/aicoolies-com-domain-security/)
-- [Aicoolies Com Vulnerability Disclosure](https://apis.io/security/aicoolies-com/aicoolies-com-vulnerability-disclosure/)
+- [aicoolies Authentication](https://apis.io/security/aicoolies-com/aicoolies-com-authentication/)
+- [aicoolies Domain Security](https://apis.io/security/aicoolies-com/aicoolies-com-domain-security/)
+- [aicoolies Vulnerability Disclosure](https://apis.io/security/aicoolies-com/aicoolies-com-vulnerability-disclosure/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Aicoolies Com Scopes](https://apis.io/scopes/aicoolies-com/aicoolies-com-scopes/)
+- [aicoolies Scopes](https://apis.io/scopes/aicoolies-com/aicoolies-com-scopes/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Aicoolies Com Rate Limits](https://apis.io/rate-limits/aicoolies-com/aicoolies-com-rate-limits/)
+- [aicoolies Rate Limits](https://apis.io/rate-limits/aicoolies-com/aicoolies-com-rate-limits/)
 
 ## Where to find this API
 
@@ -117,18 +123,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 30.2** — thin · rubric 0.25.0 · scored 2026-10-28
+**Kin Score 32.2** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 85.0 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
-| Operational transparency | 37.4 |
+| Contract governance | 18.2 |
+| Operational transparency | 35.7 |
 | Developer ergonomics | 49.3 |
-| Access clarity | 21.1 |
+| Access clarity | 21.3 |
 
-**Agent readiness 13.2** — agent-aware
+**Agent readiness 17.7** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -143,8 +149,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
 | Agent Skills | unknown |
-| Well Known Catalog | — |
-| Consent Identity | — |
+| Well Known Catalog | yes |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -153,6 +159,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
 **Regulatory alignment 33.6** — Horizontal (data, software, accessibility, platform)
 
